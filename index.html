@@ -6,32 +6,69 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	<script src="controller.js" type="text/javascript"></script>
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
 	<style type="text/css">
+		p{
+			font-size: 18px;
+			margin:auto ;
+		}
+
 		.hidden{
 			opacity: 0;
+			height:0;
 		}
 	</style>
 </head>
 
-<body ng-controller="parittaCtrl">
-	
-	<a href="#" ng-click="updatePrev(parittaNumber)" ><</a>
-	<a href="#" ng-click="updateNext(parittaNumber)" >></a>
-	
-	<div id="paritta-list">
-		<li ng-repeat="paritta in parittaList ">
-			<a href="#" ng-click="goToParitta(paritta.number)"><p>{{paritta.number}}. {{paritta.nama}}</p></a>
-		</li>
+<body ng-controller="parittaCtrl" class="">
+	<nav class="cyan lighten-1">
+		<div class="nav-wrapper">
+			<div class="container">			
+				
+				<p><a class="left" href="#" ng-click="updatePrev(parittaNumber)" ><</a></p>
+				
+				<p><a class="right" href="#" ng-click="updateNext(parittaNumber)" >></a></p>
+				<p class="center" style="margin:auto;">Paritta {{nama}} </p>
+			</div>
+		</div>
+	</nav>
+
+	<div id="paritta-list" class="row">
+		<div class="container center">
+			<ul ng-repeat="paritta in parittaList">
+				<a href="#" ng-click="goToParitta(paritta.number)" class="collection-item"><p>{{paritta.number}}. {{paritta.nama}}</p></a>
+			</ul>
+		</div>
 	</div>
 
+	<div class="row">
+		<div class="container">
+			<div id="paritta" class="hidden">
+				<!-- {{parittaNumber}} -->
+				<h3> {{nama}} </h3><hr />
+				<br />
+					{{pali}} <br />
 
-	<div id="paritta" class="hidden">
-		{{parittaNumber}}
-		<p> {{nama}} <br />
-			{{pali}} <br />
-			{{indo}}</p>
+				<br />
+				<hr />
+					{{indo}}</p>
+			</div>
+		</div>
 	</div>
 
 </body>
+<footer class="cyan lighten-1 page-footer">
+	<div class="container">
+		<div class="row white-text">
+			<p>May all beings be well :)</p>
+			<p>sabbe satta bhavantu sukhitatta</p>
+		</div>
+	</div>
+	<div class="footer-copyright">
+		<div class="container">
+			© 2016 Copyright KMBUI
+		</div>
+	</div>
+</footer>
 
 </html>
