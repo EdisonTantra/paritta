@@ -1,6 +1,5 @@
 var parittaApp = angular.module('parittaApp' , []);
 
-
 parittaApp.controller('parittaCtrl' , function($scope,$http){
 
 	var isFinishedLoad   = false;
