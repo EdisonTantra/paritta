@@ -10,19 +10,26 @@
 	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
 	<style type="text/css">
+
 		p{
 			font-size: 18px;
 			margin:auto ;
-		}
-
-		p.content {
-			white-space: pre;
 		}
 
 		.hidden{
 			opacity: 0;
 			height:0px;
 			width:0px;
+		}
+
+		nav {
+			top: 0;
+			position: fixed;
+		}
+
+		.paritta-container {
+			margin-top: 90px;
+			min-height: calc(100vh - 250px);
 		}
 
 		a {
@@ -35,47 +42,49 @@
 	<nav class="cyan lighten-1">
 		<div class="nav-wrapper">
 			<div class="container">			
-				<p><a class="left" ng-click="updatePrev(parittaNumber)" ><i class="fa fa-arrow-left fa-lg"></i><span class="small-title">{{parittaPrev}}</span></a></p>
-				<p><a class="right" ng-click="updateNext(parittaNumber)" ><i class="fa fa-arrow-right fa-lg"></i><span class="small-title">{{parittaNext}}</span></a></p>
+				<p><a class="left" ng-click="updatePrev(parittaNumber)" ><i class="fa fa-arrow-left fa-lg"></i></a></p>
+				<p><a class="right" ng-click="updateNext(parittaNumber)" ><i class="fa fa-arrow-right fa-lg"></i></a></p>
 				<p class="center" style="margin:auto;font-size: 20px;">{{parittaTitle}}</p>
 			</div>
 		</div>
 	</nav>
 
-	<div id="paritta-list" class="row">
-		<div class="container center">
-			<ul ng-repeat="paritta in parittaList">
-				<a ng-click="goToParitta(paritta.number)" class="collection-item"><p>{{paritta.number}}. {{paritta.name}}</p></a>
-			</ul>
+	<div class="paritta-container">
+		<div id="paritta-list" class="row">
+			<div class="container center">
+				<ul ng-repeat="paritta in parittaList">
+					<a ng-click="goToParitta(paritta.number)" class="collection-item"><p>{{paritta.name}}</p></a>
+				</ul>
+			</div>
 		</div>
-	</div>
 
-	<div class="row">
-		<div class="container">
-			<div id="paritta" class="hidden">
-				<h3> {{name}} </h3>
-				<hr />
-				<pre class="content">{{pali}}</pre> 
-				<hr />
-				<pre class="content">{{indo}}</pre>
+		<div class="row">
+			<div class="container">
+				<div id="paritta" class="hidden">
+					<h3> {{name}} </h3>
+					<hr />
+					<pre class="content">{{pali}}</pre> 
+					<hr />
+					<pre class="content">{{indo}}</pre>
+				</div>
 			</div>
 		</div>
 	</div>
 
-</body>
-<footer class="cyan lighten-1 page-footer">
-	<div class="container">
-		<div class="row white-text">
-			May all beings be well :)
-			<br />
-			sabbe satta bhavantu sukhitatta
-		</div>
-	</div>
-	<div class="footer-copyright">
+	<footer class="cyan lighten-1 page-footer">
 		<div class="container">
-			© 2016 Copyright KMBUI
+			<div class="row white-text">
+				May all beings be well :)
+				<br />
+				sabbe satta bhavantu sukhitatta
+			</div>
 		</div>
-	</div>
-</footer>
+		<div class="footer-copyright">
+			<div class="container">
+				© 2016 Copyright KMBUI
+			</div>
+		</div>
+	</footer>
+</body>
 
 </html>

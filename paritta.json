@@ -1,32 +1,32 @@
 {	
 	"paritta" : [
 		{
-			"nama" : "PUBBABHĀGANAMAKĀRA",
+			"name" : "PUBBABHĀGANAMAKĀRA",
 			"pali" : "Namo Tassa Bhagavato Arahato Sammā-Sambuddhassa (tiga kali)",
 			"indo" : "Terpujilah Sang Bhagavā, Yang Maha Suci,Yang Telah Mencapai Penerangan Sempurna (tiga kali)"
 		},
 		{
-			"nama" : "PUBBABHĀGANAMAKĀRA",
+			"name" : "PUBBABHĀGANAMAKĀRA",
 			"pali" : "Namo Tassa Bhagavato Arahato Sammā-Sambuddhassa (tiga kali)",
 			"indo" : "Terpujilah Sang Bhagavā, Yang Maha Suci,Yang Telah Mencapai Penerangan Sempurna (tiga kali)"
 		}, 
 		{
-			"nama" : "TISARAṆA",
+			"name" : "TISARAṆA",
 			"pali" : "Buddhaṁ saraṇaṁ gacchāmi.\nDhammaṁ saraṇaṁ gacchāmi.\nSaṅghaṁ saraṇaṁ gacchāmi.\nDutiyampi Buddhaṁ saraṇaṁ gacchāmi.\nDutiyampi Dhammaṁ saraṇaṁ gacchāmi.\nDutiyampi Saṅghaṁ saraṇaṁ gacchāmi.\nTatiyampi Buddhaṁ saraṇaṁ gacchāmi.\nTatiyampi Dhammaṁ saraṇaṁ gacchāmi.\nTatiyampi Saṅghaṁ saraṇaṁ gacchāmi.",
 			"indo" : "Aku berlindung kepada Buddha.\nAku berlindung kepada Dhamma.\nAku berlindung kepada Saṅgha.\nUntuk kedua kalinya, aku berlindung kepada Buddha.\nUntuk kedua kalinya, aku berlindung kepada Dhamma.\nUntuk kedua kalinya, aku berlindung kepada Saṅgha.\nUntuk ketiga kalinya, aku berlindung kepada Buddha.\nUntuk ketiga kalinya, aku berlindung kepada Dhamma.\nUntuk ketiga kalinya, aku berlindung kepada Saṅgha."
 		}, 
 		{
-			"nama" : "PAÑCASĪLA",
+			"name" : "PAÑCASĪLA",
 			"pali" : "Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi.\nAdinnādānā veramaṇī sikkhā-padaṁ samādiyāmi.\nKāmesu micchācārā veramaṇī sikkhā-padaṁ samādiyāmi.\nMusāvādā veramaṇī sikkhā-padaṁ samādiyāmi.\nSurā-meraya-majja-pamādaṭṭhānā veramaṇī sikkhā-padaṁ \nsamādiyāmi.",
 			"indo" : "Aku bertekad akan melatih diri menghindari pembunuhan makhluk hidup.\nAku bertekad akan melatih diri menghindari pengambilan barang yang tidak diberikan.\nAku bertekad akan melatih diri menghindari perbuatan asusila.\nAku bertekad akan melatih diri menghindari ucapan yang tidak benar.\nAku bertekad akan melatih diri menghindari segala minuman keras yang dapat menyebabkan lemahnya kesadaran."
 		},
 		{
-			"nama" : "KARANIYAMETTA SUTTA",
+			"name" : "KARANIYAMETTA SUTTA",
 			"pali" : "Karaṇīyam-attha-kusalena\nyantaṁ santaṁ padaṁ abhisamecca,\nSakko ujū ca suhujū ca\nsuvaco cassa mudu anatimānī,\n\nSantussako ca subharo ca\nappakicco ca sallahuka-vutti,\nSantindriyo ca nipako ca\nappagabbho kulesu ananugiddho.\n\nNa ca khuddaṁ samācare kiñci\nyena viññū pare upavadeyyuṁ.\nSukhino vā khemino hontu\nsabbe sattā bhavantu sukhitattā.\n\nYe keci pāṇa-bhūtatthi\ntasā vā thāvarā vā anavasesā,\nDīghā vā ye mahantā vā\nmajjhimā rassakā aṇuka-thūlā,\n\nDiṭṭhā vā ye va adiṭṭhā\nye ca dūre vasanti avidūre,\nBhūtā vā sambhavesī vā\nsabbe sattā bhavantu sukhitattā.\n\nNa paro paraṁ nikubbetha\nnātimaññetha katthaci naṁ kiñci,\nByārosanā paṭīgha-saññā\nnāññam-aññassa dukkham-iccheyya.\n\nMātā yathā niyaṁ puttaṁ\nāyusā eka-puttam-anurakkhe,\nEvam-pi sabba-bhūtesu\nmāna-sambhāvaye aparimāṇaṁ.\n\nMettañca sabba-lokasmiṁ\nmāna-sambhāvaye aparimāṇaṁ,\nUddhaṁ adho ca tiriyañca\nasambādhaṁ averaṁ asapattaṁ.\n\nTiṭṭhañcaraṁ nisinno vā\nsayāno vā yāvatassa vigatam-iddho,\nEtaṁ satiṁ adhiṭṭheyya\nbrahmam-etaṁ vihāraṁ idham-āhu.\n\nDiṭṭhiñca anupagamma\nsīlavā dassanena sampanno,\nKāmesu vineyya gedhaṁ,\nNa hi jātu gabbha-seyyaṁ punaretī'ti.",
 			"indo" : "Inilah yang harus dikerjakan oleh mereka yang tangkas dalam kebaikan;\nUntuk mencapai ketenangan,\nIa harus mampu, jujur, sungguh jujur,\nRendah hati, lemah lembut, tiada sombong.\n\nMerasa puas, mudah disokong/dilayani,\nTiada sibuk, sederhana hidupnya,\nTenang inderanya, berhati-hati,\nTahu malu, tak melekat pada keluarga.\n\nTak berbuat kesalahan walau pun kecil,\nYang dapat dicela oleh Para Bijaksana,\nHendaklah ia berpikir: Semoga semua makhluk berbahagia dan tenteram;\nSemoga semua makhluk berbahagia.\n\nMakhluk hidup apa pun juga,\nYang lemah dan kuat tanpa kecuali,\nYang panjang atau besar,\nYang sedang, pendek, kecil atau gemuk.\n\nYang tampak atau tidak tampak,\nYang jauh atau pun dekat,\nYang telah lahir atau yang akan lahir,\nSemoga semua makhluk berbahagia.\n\nJangan menipu orang lain,\nAtau menghina siapa saja,\nJangan karena marah dan benci,\nMengharap orang lain celaka.\n\nBagaikan seorang ibu yang mempertaruhkan jiwanya,\nMelindungi anaknya yang tunggal,\nDemikianlah terhadap semua makhluk,\nDipancarkannya pikiran (kasih sayangnya) tanpa batas.\n\nKasih sayangnya ke segenap alam semesta,\nDipancarkannya pikirannya itu tanpa batas,\nKe atas, ke bawah dan ke sekeliling,\nTanpa rintangan, tanpa benci dan permusuhan.\n\nSelagi berdiri, berjalan atau duduk,\nAtau berbaring, selagi tiada lelap,\nIa tekun mengembangkan kesadaran ini,\nYang dikatakan: Berdiam dalam Brahma.\n\nTidak berpegang pada pandangan salah (tentang attā atau aku),\nDengan Sīla dan Penglihatan yang sempurna,\nHingga bersih dari nafsu indera,\nIa tak akan lahir dalam rahim mana pun juga."
 		},
 		{
-			"nama" : "ETTĀVATĀ (Pelimpahan Jasa)",
+			"name" : "ETTĀVATĀ (Pelimpahan Jasa)",
 			"pali" : "Ettāvatā ca amhehi\nSambhataṁ puñña-sampadaṁ\nSabbe devā anumodantu\nSabba-sampatti-siddhiyā.\n\nEttāvatā ca amhehi\nSambhataṁ puñña-sampadaṁ\nSabbe bhūtā anumodantu\nSabba-sampatti-siddhiyā.\n\nEttāvatā ca amhehi\nSambhataṁ puñña-sampadaṁ\nSabbe sattā anumodantu\nSabba-sampatti-siddhiyā.\n\nĀkāsaṭṭhā ca bhummaṭṭhā\nDevā nāgā mahiddhikā\nPuññaṁ taṁ anumoditvā\nCiraṁ rakkhantu lokasanti\n\nĀkāsaṭṭhā ca bhummaṭṭhā\nDevā nāgā mahiddhikā\nPuññaṁ taṁ anumoditvā\nCiraṁ rakkhantu Indonesia\n\nIdaṁ vo ñātinaṁ hotu\nSukhitā hontu ñātayo\n(tiga kali)\n\nDevo vassatu kālena\nSassa sampatti hotu ca\nPhīto bhavatu loko ca\nRājā bhavatu dhammiko\n\nĀkāsaṭṭhā ca bhummaṭṭhā\nDevā nāgā mahiddhikā\nPuññaṁ taṁ anumoditvā\nCiraṁ rakkhantu Sāsanaṁ\n\nĀkāsaṭṭhā ca bhummaṭṭhā\nDevā nāgā mahiddhikā\nPuññaṁ taṁ anumoditvā\nCiraṁ rakkhantu Desanaṁ\n\nĀkāsaṭṭhā ca bhummaṭṭhā\nDevā nāgā mahiddhikā\nPuññaṁ taṁ anumoditvā\nCiraṁ rakkhantu maṁ paraṁ'ti",
 			"indo" : "Sebanyak kami telah\nMencapai dan mengumpulkan jasa;\nSemoga semua dewa turut bergembira,\nAgar mendapat keuntungan beraneka warna.\n\nSebanyak kami telah\nMencapai dan mengumpulkan jasa\nSemoga semua makhluk halus turut bergembira,\nAgar mendapat keuntungan beraneka warna.\n\nSebanyak kami telah\nMencapai dan mengumpulkan jasa;\nSemoga semua makhluk hidup turut bergembira,\nAgar mendapat keuntungan beraneka warna.\n\nSemoga para makhluk di angkasa dan di bumi,\nPara dewa dan naga yang perkasa;\nSetelah menikmati jasa-jasa ini,\nSelalu melindungi perdamaian dunia.\n\nSemoga para makhluk di angkasa dan di bumi,\nPara dewa dan naga yang perkasa;\nSetelah menikmati jasa-jasa ini,\nSelalu melindungi Indonesia.\n\nSemoga jasa-jasa ini melimpah\nPada sanak keluarga yang telah meninggal;\nSemoga mereka berbahagia.\n(tiga kali)\n\nSemoga hujan tepat pada musimnya\nSemoga dunia maju dengan pesat\nSerta selalu bahagia dan damai\nSemoga Pemerintah/Pemimpin berlaku lurus.\n\nSemoga para makhluk di angkasa dan di bumi,\nPara dewa dan naga yang perkasa;\nSetelah menikmati jasa-jasa ini,\nSelalu melindungi Ajaran.\n\nSemoga para makhluk di angkasa dan di bumi,\nPara dewa dan naga yang perkasa;\nSetelah menikmati jasa-jasa ini,\nSelalu melindungi pembabaran Dhamma.\n\nSemoga para makhluk di angkasa dan di bumi,\nPara dewa dan naga yang perkasa;\nSetelah menikmati jasa-jasa ini,\nSelalu melindungi kita semua."
 		}
