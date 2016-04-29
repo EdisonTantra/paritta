@@ -7,6 +7,8 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	<script src="controller.js" type="text/javascript"></script>
 	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
 	<style type="text/css">
 		p{
 			font-size: 18px;
@@ -15,7 +17,8 @@
 
 		.hidden{
 			opacity: 0;
-			height:0;
+			height:0px;
+			width:0px;
 		}
 	</style>
 </head>
@@ -24,11 +27,9 @@
 	<nav class="cyan lighten-1">
 		<div class="nav-wrapper">
 			<div class="container">			
-				
-				<p><a class="left" href="#" ng-click="updatePrev(parittaNumber)" ><</a></p>
-				
-				<p><a class="right" href="#" ng-click="updateNext(parittaNumber)" >></a></p>
-				<p class="center" style="margin:auto;">Paritta {{nama}} </p>
+				<p><a class="left" href="#" ng-click="updatePrev(parittaNumber)" ><i class="fa fa-arrow-left fa-lg"></i></a></p>
+				<p><a class="right" href="#" ng-click="updateNext(parittaNumber)" ><i class="fa fa-arrow-right fa-lg"></i></a></p>
+				<p class="center" style="margin:auto;font-size: 20px;">Paritta </p>
 			</div>
 		</div>
 	</nav>
@@ -45,13 +46,15 @@
 		<div class="container">
 			<div id="paritta" class="hidden">
 				<!-- {{parittaNumber}} -->
-				<h3> {{nama}} </h3><hr />
+				<h3> {{nama}} </h3>
+				<hr />
 				<br />
-					{{pali}} <br />
-
+					{{pali}} 
+				<br />
 				<br />
 				<hr />
-					{{indo}}</p>
+				<br />
+					{{indo}}
 			</div>
 		</div>
 	</div>
@@ -60,8 +63,9 @@
 <footer class="cyan lighten-1 page-footer">
 	<div class="container">
 		<div class="row white-text">
-			<p>May all beings be well :)</p>
-			<p>sabbe satta bhavantu sukhitatta</p>
+			May all beings be well :)
+			<br />
+			sabbe satta bhavantu sukhitatta
 		</div>
 	</div>
 	<div class="footer-copyright">
