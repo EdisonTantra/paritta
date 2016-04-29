@@ -3,7 +3,8 @@ var parittaApp = angular.module('parittaApp' , []);
 
 parittaApp.controller('parittaCtrl' , function($scope,$http){
 
-	$scope.parittaList =[{'number' : 1 , 'nama' : 'PUBBABHĀGANAMAKĀRA' },
+	$scope.parittaList =[{'number' : 0 , 'nama' : 'NAMAKĀRA GĀTHĀ' },
+						{'number' : 1 , 'nama' : 'PUBBABHĀGANAMAKĀRA' },
 						{'number' : 2 ,'nama' :'TISARAṆA'},
 						{'number' : 3 , 'nama' : 'PAÑCASĪLA' },
 						{'number' : 4 ,'nama' :'KARANIYAMETTA SUTTA'},
