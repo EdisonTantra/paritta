@@ -1,19 +1,255 @@
 {	
 	"paritta" : [
 		{
-			"nama" : "Namakara Gatha",
-			"pali" : "Araham samma sambuddha",
-			"indo" : "Kami bersujud"
+			"nama" : "PUBBABHĀGANAMAKĀRA",
+			"pali" : "Namo Tassa Bhagavato Arahato Sammā-Sambuddhassa (tiga kali)",
+			"indo" : "Terpujilah Sang Bhagavā, Yang Maha Suci,Yang Telah Mencapai Penerangan Sempurna (tiga kali)"
 		}, 
 		{
-			"nama" : "Vandana",
-			"pali" : "Namo tassa bhagavato arahato samma sambuddhassa (3x)",
-			"indo" : "Terpujilah Sang Bhagava yang maha suci yang telah mencapai penerangan sempurna (3x)"
+			"nama" : "TISARAṆA",
+			"pali" : "	Buddhaṁ saraṇaṁ gacchāmi.
+						Dhammaṁ saraṇaṁ gacchāmi.
+						Saṅghaṁ saraṇaṁ gacchāmi.
+
+						Dutiyampi Buddhaṁ saraṇaṁ gacchāmi.
+						Dutiyampi Dhammaṁ saraṇaṁ gacchāmi.
+						Dutiyampi Saṅghaṁ saraṇaṁ gacchāmi.
+
+						Tatiyampi Buddhaṁ saraṇaṁ gacchāmi.
+						Tatiyampi Dhammaṁ saraṇaṁ gacchāmi.
+						Tatiyampi Saṅghaṁ saraṇaṁ gacchāmi.",
+			"indo" : "	aku berlindung kepada Buddha.
+						aku berlindung kepada Dhamma.
+						aku berlindung kepada Saṅgha (baca: Sang-gha).
+
+						Untuk kedua kalinya, aku berlindung kepada Buddha.
+						Untuk kedua kalinya, aku berlindung kepada Dhamma.
+						Untuk kedua kalinya, aku berlindung kepada Saṅgha.
+
+						Untuk ketiga kalinya, aku berlindung kepada Buddha.
+						Untuk ketiga kalinya, aku berlindung kepada Dhamma.
+						Untuk ketiga kalinya, aku berlindung kepada Saṅgha.
+						"
 		}, 
 		{
-			"nama" : "Tisarana",
-			"pali" : "Buddham saranam gacchami",
-			"indo" : "Aku berlindung kepada Buddha"
-		} 
+			"nama" : "PAÑCASĪLA",
+			"pali" : "	Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi.
+						Adinnādānā veramaṇī sikkhā-padaṁ samādiyāmi.
+						Kāmesu micchācārā veramaṇī sikkhā-padaṁ samādiyāmi.
+						Musāvādā veramaṇī sikkhā-padaṁ samādiyāmi.
+						Surā-meraya-majja-pamādaṭṭhānā veramaṇī sikkhā-padaṁ 
+						samādiyāmi.",
+
+			"indo" : "	Aku bertekad akan melatih diri menghindari pembunuhan makhluk hidup.
+						Aku bertekad akan melatih diri menghindari pengambilan barang yang 
+						tidak diberikan.
+						Aku bertekad akan melatih diri menghindari perbuatan asusila.
+						Aku bertekad akan melatih diri menghindari ucapan yang tidak benar.
+						Aku bertekad akan melatih diri menghindari segala minuman keras yang 
+						dapat menyebabkan lemahnya kesadaran."
+		},
+		{
+			"nama" : "KARANIYAMETTA SUTTA",
+			"pali" : "	Karaṇīyam-attha-kusalena
+						yantaṁ santaṁ padaṁ abhisamecca,
+						Sakko ujū ca suhujū ca
+						suvaco cassa mudu anatimānī,
+
+						Santussako ca subharo ca
+						appakicco ca sallahuka-vutti,
+						Santindriyo ca nipako ca
+						appagabbho kulesu ananugiddho.
+
+						Na ca khuddaṁ samācare kiñci
+						yena viññū pare upavadeyyuṁ.
+						Sukhino vā khemino hontu
+						sabbe sattā bhavantu sukhitattā.
+
+						Ye keci pāṇa-bhūtatthi
+						tasā vā thāvarā vā anavasesā,
+						Dīghā vā ye mahantā vā
+						majjhimā rassakā aṇuka-thūlā,
+
+						Diṭṭhā vā ye va adiṭṭhā
+						ye ca dūre vasanti avidūre,
+						Bhūtā vā sambhavesī vā
+						sabbe sattā bhavantu sukhitattā.
+
+						Na paro paraṁ nikubbetha
+						nātimaññetha katthaci naṁ kiñci,
+						Byārosanā paṭīgha-saññā
+						nāññam-aññassa dukkham-iccheyya.
+
+						Mātā yathā niyaṁ puttaṁ
+						āyusā eka-puttam-anurakkhe,
+						Evam-pi sabba-bhūtesu
+						māna-sambhāvaye aparimāṇaṁ.
+
+						Mettañca sabba-lokasmiṁ
+						māna-sambhāvaye aparimāṇaṁ,
+						Uddhaṁ adho ca tiriyañca
+						asambādhaṁ averaṁ asapattaṁ.
+
+						Tiṭṭhañcaraṁ nisinno vā
+						sayāno vā yāvatassa vigatam-iddho,
+						Etaṁ satiṁ adhiṭṭheyya
+						brahmam-etaṁ vihāraṁ idham-āhu.
+
+						Diṭṭhiñca anupagamma
+						sīlavā dassanena sampanno,
+						Kāmesu vineyya gedhaṁ,
+						Na hi jātu gabbha-seyyaṁ punaretī'ti.",
+
+			"indo" : "	Inilah yang harus dikerjakan oleh mereka yang tangkas dalam kebaikan;
+						Untuk mencapai ketenangan,
+						Ia harus mampu, jujur, sungguh jujur,
+						Rendah hati, lemah lembut, tiada sombong.
+
+						Merasa puas, mudah disokong/dilayani,
+						Tiada sibuk, sederhana hidupnya,
+						Tenang inderanya, berhati-hati,
+						Tahu malu, tak melekat pada keluarga.
+
+						Tak berbuat kesalahan walau pun kecil,
+						Yang dapat dicela oleh Para Bijaksana,
+						Hendaklah ia berpikir: Semoga semua makhluk berbahagia dan tenteram;
+						Semoga semua makhluk berbahagia.
+
+						Makhluk hidup apa pun juga,
+						Yang lemah dan kuat tanpa kecuali,
+						Yang panjang atau besar,
+						Yang sedang, pendek, kecil atau gemuk.
+
+						Yang tampak atau tidak tampak,
+						Yang jauh atau pun dekat,
+						Yang telah lahir atau yang akan lahir,
+						Semoga semua makhluk berbahagia.
+
+						Jangan menipu orang lain,
+						Atau menghina siapa saja,
+						Jangan karena marah dan benci,
+						Mengharap orang lain celaka.
+
+						Bagaikan seorang ibu yang mempertaruhkan jiwanya,
+						Melindungi anaknya yang tunggal,
+						Demikianlah terhadap semua makhluk,
+						Dipancarkannya pikiran (kasih sayangnya) tanpa batas.
+
+						Kasih sayangnya ke segenap alam semesta,
+						Dipancarkannya pikirannya itu tanpa batas,
+						Ke atas, ke bawah dan ke sekeliling,
+						Tanpa rintangan, tanpa benci dan permusuhan.
+
+						Selagi berdiri, berjalan atau duduk,
+						Atau berbaring, selagi tiada lelap,
+						Ia tekun mengembangkan kesadaran ini,
+						Yang dikatakan: Berdiam dalam Brahma.
+
+						Tidak berpegang pada pandangan salah (tentang attā atau aku),
+						Dengan Sīla dan Penglihatan yang sempurna,
+						Hingga bersih dari nafsu indera,
+						Ia tak akan lahir dalam rahim mana pun juga."
+		},
+		{
+			"nama" : "ETTĀVATĀ (Pelimpahan Jasa)",
+			"pali" : "	Ettāvatā ca amhehi
+						Sambhataṁ puñña-sampadaṁ
+						Sabbe devā anumodantu
+						Sabba-sampatti-siddhiyā.
+
+						Ettāvatā ca amhehi
+						Sambhataṁ puñña-sampadaṁ
+						Sabbe bhūtā anumodantu
+						Sabba-sampatti-siddhiyā.
+
+						Ettāvatā ca amhehi
+						Sambhataṁ puñña-sampadaṁ
+						Sabbe sattā anumodantu
+						Sabba-sampatti-siddhiyā.
+
+						Ākāsaṭṭhā ca bhummaṭṭhā
+						Devā nāgā mahiddhikā
+						Puññaṁ taṁ anumoditvā
+						Ciraṁ rakkhantu lokasanti
+
+						Ākāsaṭṭhā ca bhummaṭṭhā
+						Devā nāgā mahiddhikā
+						Puññaṁ taṁ anumoditvā
+						Ciraṁ rakkhantu Indonesia
+
+						Idaṁ vo ñātinaṁ hotu
+						Sukhitā hontu ñātayo
+						(tiga kali)
+
+						Devo vassatu kālena
+						Sassa sampatti hotu ca
+						Phīto bhavatu loko ca
+						Rājā bhavatu dhammiko
+
+						Ākāsaṭṭhā ca bhummaṭṭhā
+						Devā nāgā mahiddhikā
+						Puññaṁ taṁ anumoditvā
+						Ciraṁ rakkhantu Sāsanaṁ
+
+						Ākāsaṭṭhā ca bhummaṭṭhā
+						Devā nāgā mahiddhikā
+						Puññaṁ taṁ anumoditvā
+						Ciraṁ rakkhantu Desanaṁ
+
+						Ākāsaṭṭhā ca bhummaṭṭhā
+						Devā nāgā mahiddhikā
+						Puññaṁ taṁ anumoditvā
+						Ciraṁ rakkhantu maṁ paraṁ'ti",
+
+			"indo" : "	Sebanyak kami telah
+						Mencapai dan mengumpulkan jasa;
+						Semoga semua dewa turut bergembira,
+						Agar mendapat keuntungan beraneka warna.
+
+						Sebanyak kami telah
+						Mencapai dan mengumpulkan jasa
+						Semoga semua makhluk halus turut bergembira,
+						Agar mendapat keuntungan beraneka warna.
+
+						Sebanyak kami telah
+						Mencapai dan mengumpulkan jasa;
+						Semoga semua makhluk hidup turut bergembira,
+						Agar mendapat keuntungan beraneka warna.
+
+						Semoga para makhluk di angkasa dan di bumi,
+						Para dewa dan naga yang perkasa;
+						Setelah menikmati jasa-jasa ini,
+						Selalu melindungi perdamaian dunia.
+
+						Semoga para makhluk di angkasa dan di bumi,
+						Para dewa dan naga yang perkasa;
+						Setelah menikmati jasa-jasa ini,
+						Selalu melindungi Indonesia.
+
+						Semoga jasa-jasa ini melimpah
+						Pada sanak keluarga yang telah meninggal;
+						Semoga mereka berbahagia.
+						(tiga kali)
+
+						Semoga hujan tepat pada musimnya
+						Semoga dunia maju dengan pesat
+						Serta selalu bahagia dan damai
+						Semoga Pemerintah/Pemimpin berlaku lurus.
+
+						Semoga para makhluk di angkasa dan di bumi,
+						Para dewa dan naga yang perkasa;
+						Setelah menikmati jasa-jasa ini,
+						Selalu melindungi Ajaran.
+
+						Semoga para makhluk di angkasa dan di bumi,
+						Para dewa dan naga yang perkasa;
+						Setelah menikmati jasa-jasa ini,
+						Selalu melindungi pembabaran Dhamma.
+
+						Semoga para makhluk di angkasa dan di bumi,
+						Para dewa dan naga yang perkasa;
+						Setelah menikmati jasa-jasa ini,
+						Selalu melindungi kita semua."
+		}
 	]
 }
