@@ -15,10 +15,18 @@
 			margin:auto ;
 		}
 
+		p.content {
+			white-space: pre;
+		}
+
 		.hidden{
 			opacity: 0;
 			height:0px;
 			width:0px;
+		}
+
+		a {
+			cursor: pointer;
 		}
 	</style>
 </head>
@@ -27,9 +35,9 @@
 	<nav class="cyan lighten-1">
 		<div class="nav-wrapper">
 			<div class="container">			
-				<p><a class="left" href="#" ng-click="updatePrev(parittaNumber)" ><i class="fa fa-arrow-left fa-lg"></i></a></p>
-				<p><a class="right" href="#" ng-click="updateNext(parittaNumber)" ><i class="fa fa-arrow-right fa-lg"></i></a></p>
-				<p class="center" style="margin:auto;font-size: 20px;">Paritta </p>
+				<p><a class="left" ng-click="updatePrev(parittaNumber)" ><i class="fa fa-arrow-left fa-lg"></i><span class="small-title">{{parittaPrev}}</span></a></p>
+				<p><a class="right" ng-click="updateNext(parittaNumber)" ><i class="fa fa-arrow-right fa-lg"></i><span class="small-title">{{parittaNext}}</span></a></p>
+				<p class="center" style="margin:auto;font-size: 20px;">{{parittaTitle}}</p>
 			</div>
 		</div>
 	</nav>
@@ -37,7 +45,7 @@
 	<div id="paritta-list" class="row">
 		<div class="container center">
 			<ul ng-repeat="paritta in parittaList">
-				<a href="#" ng-click="goToParitta(paritta.number)" class="collection-item"><p>{{paritta.number}}. {{paritta.nama}}</p></a>
+				<a ng-click="goToParitta(paritta.number)" class="collection-item"><p>{{paritta.number}}. {{paritta.name}}</p></a>
 			</ul>
 		</div>
 	</div>
@@ -45,16 +53,11 @@
 	<div class="row">
 		<div class="container">
 			<div id="paritta" class="hidden">
-				<!-- {{parittaNumber}} -->
-				<h3> {{nama}} </h3>
+				<h3> {{name}} </h3>
 				<hr />
-				<br />
-					{{pali}} 
-				<br />
-				<br />
+				<pre class="content">{{pali}}</pre> 
 				<hr />
-				<br />
-					{{indo}}
+				<pre class="content">{{indo}}</pre>
 			</div>
 		</div>
 	</div>
